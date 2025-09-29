@@ -1,6 +1,6 @@
 
 # Predictive Maintenance for Turbofan Engines: An R & Tidymodels Project
-
+> **Note:** This project and its methodology contributed to a published academic paper. You can read the full paper here: (https://www.semanticscholar.org/paper/Damage-propagation-modeling-for-aircraft-engine-Saxena-Goebel/026d286e149b17995d0f8c0abb4f060eb8e5d809?utm_source=direct_link)
 
 
 
