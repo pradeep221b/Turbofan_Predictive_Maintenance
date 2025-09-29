@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Pradeep"
+    given-names: "Sriramula"
+    orcid: "https://orcid.org/YOUR-ORCID-ID"
+title: "Predictive Maintenance for Turbofan Engines: An R & Tidymodels Project"
+version: 1.0.0
+date-released: 2025-09-29
+url: "https://github.com/pradeep221b/Turbofan_Predictive_Maintenance"
